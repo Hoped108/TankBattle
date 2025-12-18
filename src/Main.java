@@ -569,8 +569,8 @@ class GameConfig {
     public static int[] WAVE_COUNTS = {2, 2, 1, 2};    // 每波敌人数量（可控）
 
     //===== 速度 =====
-    public static  int SHOT_SPEED = 5; //子弹类型的速度
-    public static int TANK_SPEED = 3;
+    public static  int SHOT_SPEED = 25; //子弹类型的速度
+    public static int TANK_SPEED = 5;
 
     //===== 像素大小 =====
     public static int PIECE = 25;
